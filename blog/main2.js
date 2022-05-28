@@ -17,7 +17,7 @@ var params = window
 async function getPosts() {
     let res = await fetch('http://test.api.ru/posts/' + params['id']);
     let post = await res.json();
-    //document.querySelector('.post-list').innerHTML = "<h5> Редактирование записи №" + post.message.id_posts +"</h5>";
+    document.querySelector('.post-list').innerHTML = "<h5> Редактирование записи №" + post.message.id_posts +"</h5>";
     document.getElementById('exampleInputName2').value = post.message.name;
     document.getElementById('exampleInputEmail2').value = post.message.email;
     document.getElementById('exampleInputPhone2').value = post.message.phone;
