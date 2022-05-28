@@ -24,5 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/91278041/170821559-1db11cd0-1805-45e4-912b-c7bb3ee4785a.png)
 
+Редактирование
+
 ![image](https://user-images.githubusercontent.com/91278041/170821584-88d75866-e9ad-47f1-9c12-c7c928580a80.png)
 
